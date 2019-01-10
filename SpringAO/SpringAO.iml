@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration>
+        <fileset id="fileset2" name="Spring Application Context (2)" removed="false">
+          <file>file://$MODULE_DIR$/src/main/resources/context.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/megican_context.xml</file>
+          <file>file://$MODULE_DIR$/src/main/java/terminal/elements/terminal_conmtext.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/terminal_conmtext.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+</module>
